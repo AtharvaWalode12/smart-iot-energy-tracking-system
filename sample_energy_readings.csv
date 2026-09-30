@@ -1,0 +1,457 @@
+timestamp,site,load_name,category,voltage_v,current_a,power_factor,active_power_kw,energy_kwh,tariff_inr_per_kwh
+2026-09-30T00:00:00,Residential,HVAC,Cooling,230.0,1.407,0.93,0.301,0.301,8
+2026-09-30T00:00:00,Residential,Water heater,Heating,230.8,3.323,0.94,0.721,0.721,8
+2026-09-30T00:00:00,Residential,Refrigerator,Always on,231.5,0.673,0.95,0.148,0.148,8
+2026-09-30T00:00:00,Residential,Lighting,Lighting,232.1,1.102,0.95,0.243,0.243,8
+2026-09-30T00:00:00,Residential,Kitchen,Appliances,232.6,2.015,0.96,0.45,0.45,8
+2026-09-30T00:00:00,Residential,Washer,Appliances,232.9,1.681,0.95,0.372,0.372,8
+2026-09-30T00:00:00,Residential,Standby loads,Standby,233.0,0.497,0.95,0.11,0.11,8
+2026-09-30T01:00:00,Residential,HVAC,Cooling,230.8,1.332,0.94,0.289,0.289,8
+2026-09-30T01:00:00,Residential,Water heater,Heating,231.5,3.419,0.95,0.752,0.752,8
+2026-09-30T01:00:00,Residential,Refrigerator,Always on,232.1,0.644,0.95,0.142,0.142,8
+2026-09-30T01:00:00,Residential,Lighting,Lighting,232.6,1.088,0.96,0.243,0.243,8
+2026-09-30T01:00:00,Residential,Kitchen,Appliances,232.9,2.355,0.95,0.521,0.521,8
+2026-09-30T01:00:00,Residential,Washer,Appliances,233.0,1.78,0.95,0.394,0.394,8
+2026-09-30T01:00:00,Residential,Standby loads,Standby,232.9,0.502,0.94,0.11,0.11,8
+2026-09-30T02:00:00,Residential,HVAC,Cooling,231.5,1.369,0.95,0.301,0.301,8
+2026-09-30T02:00:00,Residential,Water heater,Heating,232.1,3.565,0.95,0.786,0.786,8
+2026-09-30T02:00:00,Residential,Refrigerator,Always on,232.6,0.631,0.96,0.141,0.141,8
+2026-09-30T02:00:00,Residential,Lighting,Lighting,232.9,1.098,0.95,0.243,0.243,8
+2026-09-30T02:00:00,Residential,Kitchen,Appliances,233.0,2.616,0.95,0.579,0.579,8
+2026-09-30T02:00:00,Residential,Washer,Appliances,232.9,1.791,0.94,0.392,0.392,8
+2026-09-30T02:00:00,Residential,Standby loads,Standby,232.6,0.509,0.93,0.11,0.11,8
+2026-09-30T03:00:00,Residential,HVAC,Cooling,232.1,1.519,0.95,0.335,0.335,8
+2026-09-30T03:00:00,Residential,Water heater,Heating,232.6,3.672,0.96,0.82,0.82,8
+2026-09-30T03:00:00,Residential,Refrigerator,Always on,232.9,0.664,0.95,0.147,0.147,8
+2026-09-30T03:00:00,Residential,Lighting,Lighting,233.0,1.098,0.95,0.243,0.243,8
+2026-09-30T03:00:00,Residential,Kitchen,Appliances,232.9,2.786,0.94,0.61,0.61,8
+2026-09-30T03:00:00,Residential,Washer,Appliances,232.6,1.706,0.93,0.369,0.369,8
+2026-09-30T03:00:00,Residential,Standby loads,Standby,232.1,0.515,0.92,0.11,0.11,8
+2026-09-30T04:00:00,Residential,HVAC,Cooling,232.6,1.747,0.96,0.39,0.39,8
+2026-09-30T04:00:00,Residential,Water heater,Heating,232.9,3.855,0.95,0.853,0.853,8
+2026-09-30T04:00:00,Residential,Refrigerator,Always on,233.0,0.664,0.95,0.147,0.147,8
+2026-09-30T04:00:00,Residential,Lighting,Lighting,232.9,1.11,0.94,0.243,0.243,8
+2026-09-30T04:00:00,Residential,Kitchen,Appliances,232.6,2.792,0.93,0.604,0.604,8
+2026-09-30T04:00:00,Residential,Washer,Appliances,232.1,1.541,0.92,0.329,0.329,8
+2026-09-30T04:00:00,Residential,Standby loads,Standby,231.5,0.522,0.91,0.11,0.11,8
+2026-09-30T05:00:00,Residential,HVAC,Cooling,232.9,2.088,0.95,0.462,0.462,8
+2026-09-30T05:00:00,Residential,Water heater,Heating,233.0,3.98,0.95,0.881,0.881,8
+2026-09-30T05:00:00,Residential,Refrigerator,Always on,232.9,0.639,0.94,0.14,0.14,8
+2026-09-30T05:00:00,Residential,Lighting,Lighting,232.6,1.123,0.93,0.243,0.243,8
+2026-09-30T05:00:00,Residential,Kitchen,Appliances,232.1,2.646,0.92,0.565,0.565,8
+2026-09-30T05:00:00,Residential,Washer,Appliances,231.5,1.343,0.91,0.283,0.283,8
+2026-09-30T05:00:00,Residential,Standby loads,Standby,230.8,0.524,0.91,0.11,0.11,8
+2026-09-30T06:00:00,Residential,HVAC,Cooling,233.0,3.519,0.95,0.779,0.779,8
+2026-09-30T06:00:00,Residential,Water heater,Heating,232.9,4.125,0.94,0.903,0.903,8
+2026-09-30T06:00:00,Residential,Refrigerator,Always on,232.6,0.656,0.93,0.142,0.142,8
+2026-09-30T06:00:00,Residential,Lighting,Lighting,232.1,1.138,0.92,0.243,0.243,8
+2026-09-30T06:00:00,Residential,Kitchen,Appliances,231.5,2.383,0.91,0.502,0.502,8
+2026-09-30T06:00:00,Residential,Washer,Appliances,230.8,1.162,0.91,0.244,0.244,8
+2026-09-30T06:00:00,Residential,Standby loads,Standby,230.0,0.526,0.91,0.11,0.11,8
+2026-09-30T07:00:00,Residential,HVAC,Cooling,232.9,4.143,0.94,0.907,0.907,8
+2026-09-30T07:00:00,Residential,Water heater,Heating,232.6,4.244,0.93,0.918,0.918,8
+2026-09-30T07:00:00,Residential,Refrigerator,Always on,232.1,0.693,0.92,0.148,0.148,8
+2026-09-30T07:00:00,Residential,Lighting,Lighting,231.5,0.579,0.91,0.122,0.122,8
+2026-09-30T07:00:00,Residential,Kitchen,Appliances,230.8,2.052,0.91,0.431,0.431,8
+2026-09-30T07:00:00,Residential,Washer,Appliances,230.0,1.061,0.91,0.222,0.222,8
+2026-09-30T07:00:00,Residential,Standby loads,Standby,229.2,0.527,0.91,0.11,0.11,8
+2026-09-30T08:00:00,Residential,HVAC,Cooling,232.6,4.789,0.93,1.036,1.036,8
+2026-09-30T08:00:00,Residential,Water heater,Heating,232.1,4.327,0.92,0.924,0.924,8
+2026-09-30T08:00:00,Residential,Refrigerator,Always on,231.5,0.684,0.91,0.144,0.144,8
+2026-09-30T08:00:00,Residential,Lighting,Lighting,230.8,0.581,0.91,0.122,0.122,8
+2026-09-30T08:00:00,Residential,Kitchen,Appliances,230.0,1.782,0.91,0.373,0.373,8
+2026-09-30T08:00:00,Residential,Washer,Appliances,229.2,1.074,0.91,0.224,0.224,8
+2026-09-30T08:00:00,Residential,Standby loads,Standby,228.5,0.529,0.91,0.11,0.11,8
+2026-09-30T09:00:00,Residential,HVAC,Cooling,232.1,5.409,0.92,1.155,1.155,8
+2026-09-30T09:00:00,Residential,Water heater,Heating,231.5,4.372,0.91,0.921,0.921,8
+2026-09-30T09:00:00,Residential,Refrigerator,Always on,230.8,0.667,0.91,0.14,0.14,8
+2026-09-30T09:00:00,Residential,Lighting,Lighting,230.0,0.583,0.91,0.122,0.122,8
+2026-09-30T09:00:00,Residential,Kitchen,Appliances,229.2,1.64,0.91,0.342,0.342,8
+2026-09-30T09:00:00,Residential,Washer,Appliances,228.5,1.188,0.91,0.247,0.247,8
+2026-09-30T09:00:00,Residential,Standby loads,Standby,227.9,0.525,0.92,0.11,0.11,8
+2026-09-30T10:00:00,Residential,HVAC,Cooling,231.5,5.972,0.91,1.258,1.258,8
+2026-09-30T10:00:00,Residential,Water heater,Heating,230.8,4.328,0.91,0.909,0.909,8
+2026-09-30T10:00:00,Residential,Refrigerator,Always on,230.0,0.693,0.91,0.145,0.145,8
+2026-09-30T10:00:00,Residential,Lighting,Lighting,229.2,0.585,0.91,0.122,0.122,8
+2026-09-30T10:00:00,Residential,Kitchen,Appliances,228.5,1.674,0.91,0.348,0.348,8
+2026-09-30T10:00:00,Residential,Washer,Appliances,227.9,1.369,0.92,0.287,0.287,8
+2026-09-30T10:00:00,Residential,Standby loads,Standby,227.4,0.52,0.93,0.11,0.11,8
+2026-09-30T11:00:00,Residential,HVAC,Cooling,230.8,6.361,0.91,1.336,1.336,8
+2026-09-30T11:00:00,Residential,Water heater,Heating,230.0,4.252,0.91,0.89,0.89,8
+2026-09-30T11:00:00,Residential,Refrigerator,Always on,229.2,0.71,0.91,0.148,0.148,8
+2026-09-30T11:00:00,Residential,Lighting,Lighting,228.5,0.587,0.91,0.122,0.122,8
+2026-09-30T11:00:00,Residential,Kitchen,Appliances,227.9,1.846,0.92,0.387,0.387,8
+2026-09-30T11:00:00,Residential,Washer,Appliances,227.4,1.575,0.93,0.333,0.333,8
+2026-09-30T11:00:00,Residential,Standby loads,Standby,227.1,0.515,0.94,0.11,0.11,8
+2026-09-30T12:00:00,Residential,HVAC,Cooling,230.0,6.622,0.91,1.386,1.386,8
+2026-09-30T12:00:00,Residential,Water heater,Heating,229.2,4.138,0.91,0.863,0.863,8
+2026-09-30T12:00:00,Residential,Refrigerator,Always on,228.5,0.683,0.91,0.142,0.142,8
+2026-09-30T12:00:00,Residential,Lighting,Lighting,227.9,0.582,0.92,0.122,0.122,8
+2026-09-30T12:00:00,Residential,Kitchen,Appliances,227.4,2.128,0.93,0.45,0.45,8
+2026-09-30T12:00:00,Residential,Washer,Appliances,227.1,1.743,0.94,0.372,0.372,8
+2026-09-30T12:00:00,Residential,Standby loads,Standby,227.0,0.51,0.95,0.11,0.11,8
+2026-09-30T13:00:00,Residential,HVAC,Cooling,229.2,6.727,0.91,1.403,1.403,8
+2026-09-30T13:00:00,Residential,Water heater,Heating,228.5,4.001,0.91,0.832,0.832,8
+2026-09-30T13:00:00,Residential,Refrigerator,Always on,227.9,0.668,0.92,0.14,0.14,8
+2026-09-30T13:00:00,Residential,Lighting,Lighting,227.4,0.577,0.93,0.122,0.122,8
+2026-09-30T13:00:00,Residential,Kitchen,Appliances,227.1,2.441,0.94,0.521,0.521,8
+2026-09-30T13:00:00,Residential,Washer,Appliances,227.0,1.827,0.95,0.394,0.394,8
+2026-09-30T13:00:00,Residential,Standby loads,Standby,227.1,0.51,0.95,0.11,0.11,8
+2026-09-30T14:00:00,Residential,HVAC,Cooling,228.5,6.666,0.91,1.386,1.386,8
+2026-09-30T14:00:00,Residential,Water heater,Heating,227.9,3.806,0.92,0.798,0.798,8
+2026-09-30T14:00:00,Residential,Refrigerator,Always on,227.4,0.695,0.93,0.147,0.147,8
+2026-09-30T14:00:00,Residential,Lighting,Lighting,227.1,0.571,0.94,0.122,0.122,8
+2026-09-30T14:00:00,Residential,Kitchen,Appliances,227.0,2.685,0.95,0.579,0.579,8
+2026-09-30T14:00:00,Residential,Washer,Appliances,227.1,1.817,0.95,0.392,0.392,8
+2026-09-30T14:00:00,Residential,Standby loads,Standby,227.4,0.504,0.96,0.11,0.11,8
+2026-09-30T15:00:00,Residential,HVAC,Cooling,227.9,6.372,0.92,1.336,1.336,8
+2026-09-30T15:00:00,Residential,Water heater,Heating,227.4,3.613,0.93,0.764,0.764,8
+2026-09-30T15:00:00,Residential,Refrigerator,Always on,227.1,0.689,0.94,0.147,0.147,8
+2026-09-30T15:00:00,Residential,Lighting,Lighting,227.0,0.566,0.95,0.122,0.122,8
+2026-09-30T15:00:00,Residential,Kitchen,Appliances,227.1,2.827,0.95,0.61,0.61,8
+2026-09-30T15:00:00,Residential,Washer,Appliances,227.4,1.69,0.96,0.369,0.369,8
+2026-09-30T15:00:00,Residential,Standby loads,Standby,227.9,0.508,0.95,0.11,0.11,8
+2026-09-30T16:00:00,Residential,HVAC,Cooling,227.4,5.948,0.93,1.258,1.258,8
+2026-09-30T16:00:00,Residential,Water heater,Heating,227.1,3.424,0.94,0.731,0.731,8
+2026-09-30T16:00:00,Residential,Refrigerator,Always on,227.0,0.649,0.95,0.14,0.14,8
+2026-09-30T16:00:00,Residential,Lighting,Lighting,227.1,0.565,0.95,0.122,0.122,8
+2026-09-30T16:00:00,Residential,Kitchen,Appliances,227.4,2.767,0.96,0.604,0.604,8
+2026-09-30T16:00:00,Residential,Washer,Appliances,227.9,1.52,0.95,0.329,0.329,8
+2026-09-30T16:00:00,Residential,Standby loads,Standby,228.5,0.507,0.95,0.11,0.11,8
+2026-09-30T17:00:00,Residential,HVAC,Cooling,227.1,5.41,0.94,1.155,1.155,8
+2026-09-30T17:00:00,Residential,Water heater,Heating,227.0,3.26,0.95,0.703,0.703,8
+2026-09-30T17:00:00,Residential,Refrigerator,Always on,227.1,0.658,0.95,0.142,0.142,8
+2026-09-30T17:00:00,Residential,Lighting,Lighting,227.4,0.559,0.96,0.122,0.122,8
+2026-09-30T17:00:00,Residential,Kitchen,Appliances,227.9,2.61,0.95,0.565,0.565,8
+2026-09-30T17:00:00,Residential,Washer,Appliances,228.5,1.304,0.95,0.283,0.283,8
+2026-09-30T17:00:00,Residential,Standby loads,Standby,229.2,0.511,0.94,0.11,0.11,8
+2026-09-30T18:00:00,Residential,HVAC,Cooling,227.0,4.804,0.95,1.036,1.036,8
+2026-09-30T18:00:00,Residential,Water heater,Heating,227.1,3.157,0.95,0.681,0.681,8
+2026-09-30T18:00:00,Residential,Refrigerator,Always on,227.4,0.678,0.96,0.148,0.148,8
+2026-09-30T18:00:00,Residential,Lighting,Lighting,227.9,1.122,0.95,0.243,0.243,8
+2026-09-30T18:00:00,Residential,Kitchen,Appliances,228.5,2.313,0.95,0.502,0.502,8
+2026-09-30T18:00:00,Residential,Washer,Appliances,229.2,1.133,0.94,0.244,0.244,8
+2026-09-30T18:00:00,Residential,Standby loads,Standby,230.0,0.514,0.93,0.11,0.11,8
+2026-09-30T19:00:00,Residential,HVAC,Cooling,227.1,4.204,0.95,0.907,0.907,8
+2026-09-30T19:00:00,Residential,Water heater,Heating,227.4,3.051,0.96,0.666,0.666,8
+2026-09-30T19:00:00,Residential,Refrigerator,Always on,227.9,0.67,0.95,0.145,0.145,8
+2026-09-30T19:00:00,Residential,Lighting,Lighting,228.5,1.119,0.95,0.243,0.243,8
+2026-09-30T19:00:00,Residential,Kitchen,Appliances,229.2,2.0,0.94,0.431,0.431,8
+2026-09-30T19:00:00,Residential,Washer,Appliances,230.0,1.038,0.93,0.222,0.222,8
+2026-09-30T19:00:00,Residential,Standby loads,Standby,230.8,0.518,0.92,0.11,0.11,8
+2026-09-30T20:00:00,Residential,HVAC,Cooling,227.4,3.568,0.96,0.779,0.779,8
+2026-09-30T20:00:00,Residential,Water heater,Heating,227.9,3.048,0.95,0.66,0.66,8
+2026-09-30T20:00:00,Residential,Refrigerator,Always on,228.5,0.645,0.95,0.14,0.14,8
+2026-09-30T20:00:00,Residential,Lighting,Lighting,229.2,1.128,0.94,0.243,0.243,8
+2026-09-30T20:00:00,Residential,Kitchen,Appliances,230.0,1.744,0.93,0.373,0.373,8
+2026-09-30T20:00:00,Residential,Washer,Appliances,230.8,1.055,0.92,0.224,0.224,8
+2026-09-30T20:00:00,Residential,Standby loads,Standby,231.5,0.522,0.91,0.11,0.11,8
+2026-09-30T21:00:00,Residential,HVAC,Cooling,227.9,3.048,0.95,0.66,0.66,8
+2026-09-30T21:00:00,Residential,Water heater,Heating,228.5,3.054,0.95,0.663,0.663,8
+2026-09-30T21:00:00,Residential,Refrigerator,Always on,229.2,0.668,0.94,0.144,0.144,8
+2026-09-30T21:00:00,Residential,Lighting,Lighting,230.0,1.136,0.93,0.243,0.243,8
+2026-09-30T21:00:00,Residential,Kitchen,Appliances,230.8,1.611,0.92,0.342,0.342,8
+2026-09-30T21:00:00,Residential,Washer,Appliances,231.5,1.172,0.91,0.247,0.247,8
+2026-09-30T21:00:00,Residential,Standby loads,Standby,232.1,0.521,0.91,0.11,0.11,8
+2026-09-30T22:00:00,Residential,HVAC,Cooling,228.5,2.566,0.95,0.557,0.557,8
+2026-09-30T22:00:00,Residential,Water heater,Heating,229.2,3.133,0.94,0.675,0.675,8
+2026-09-30T22:00:00,Residential,Refrigerator,Always on,230.0,0.692,0.93,0.148,0.148,8
+2026-09-30T22:00:00,Residential,Lighting,Lighting,230.8,1.144,0.92,0.243,0.243,8
+2026-09-30T22:00:00,Residential,Kitchen,Appliances,231.5,1.652,0.91,0.348,0.348,8
+2026-09-30T22:00:00,Residential,Washer,Appliances,232.1,1.359,0.91,0.287,0.287,8
+2026-09-30T22:00:00,Residential,Standby loads,Standby,232.6,0.52,0.91,0.11,0.11,8
+2026-09-30T23:00:00,Residential,HVAC,Cooling,229.2,2.223,0.94,0.479,0.479,8
+2026-09-30T23:00:00,Residential,Water heater,Heating,230.0,3.245,0.93,0.694,0.694,8
+2026-09-30T23:00:00,Residential,Refrigerator,Always on,230.8,0.673,0.92,0.143,0.143,8
+2026-09-30T23:00:00,Residential,Lighting,Lighting,231.5,1.153,0.91,0.243,0.243,8
+2026-09-30T23:00:00,Residential,Kitchen,Appliances,232.1,1.832,0.91,0.387,0.387,8
+2026-09-30T23:00:00,Residential,Washer,Appliances,232.6,1.573,0.91,0.333,0.333,8
+2026-09-30T23:00:00,Residential,Standby loads,Standby,232.9,0.519,0.91,0.11,0.11,8
+2026-09-30T00:00:00,Commercial,HVAC plant,Cooling,230.0,7.237,0.93,1.548,1.548,10
+2026-09-30T00:00:00,Commercial,Lighting,Lighting,230.8,11.21,0.94,2.432,2.432,10
+2026-09-30T00:00:00,Commercial,IT equipment,Always on,231.5,8.98,0.95,1.975,1.975,10
+2026-09-30T00:00:00,Commercial,Ventilation,Cooling,232.1,1.156,0.95,0.255,0.255,10
+2026-09-30T00:00:00,Commercial,Kitchen,Appliances,232.6,4.272,0.96,0.954,0.954,10
+2026-09-30T00:00:00,Commercial,Standby loads,Standby,232.9,1.898,0.95,0.42,0.42,10
+2026-09-30T01:00:00,Commercial,HVAC plant,Cooling,230.8,6.859,0.94,1.488,1.488,10
+2026-09-30T01:00:00,Commercial,Lighting,Lighting,231.5,11.058,0.95,2.432,2.432,10
+2026-09-30T01:00:00,Commercial,IT equipment,Always on,232.1,8.563,0.95,1.888,1.888,10
+2026-09-30T01:00:00,Commercial,Ventilation,Cooling,232.6,1.097,0.96,0.245,0.245,10
+2026-09-30T01:00:00,Commercial,Kitchen,Appliances,232.9,4.985,0.95,1.103,1.103,10
+2026-09-30T01:00:00,Commercial,Standby loads,Standby,233.0,1.897,0.95,0.42,0.42,10
+2026-09-30T02:00:00,Commercial,HVAC plant,Cooling,231.5,7.039,0.95,1.548,1.548,10
+2026-09-30T02:00:00,Commercial,Lighting,Lighting,232.1,11.03,0.95,2.432,2.432,10
+2026-09-30T02:00:00,Commercial,IT equipment,Always on,232.6,8.392,0.96,1.874,1.874,10
+2026-09-30T02:00:00,Commercial,Ventilation,Cooling,232.9,1.153,0.95,0.255,0.255,10
+2026-09-30T02:00:00,Commercial,Kitchen,Appliances,233.0,5.539,0.95,1.226,1.226,10
+2026-09-30T02:00:00,Commercial,Standby loads,Standby,232.9,1.918,0.94,0.42,0.42,10
+2026-09-30T03:00:00,Commercial,HVAC plant,Cooling,232.1,7.832,0.95,1.727,1.727,10
+2026-09-30T03:00:00,Commercial,Lighting,Lighting,232.6,10.891,0.96,2.432,2.432,10
+2026-09-30T03:00:00,Commercial,IT equipment,Always on,232.9,8.877,0.95,1.964,1.964,10
+2026-09-30T03:00:00,Commercial,Ventilation,Cooling,233.0,1.283,0.95,0.284,0.284,10
+2026-09-30T03:00:00,Commercial,Kitchen,Appliances,232.9,5.897,0.94,1.291,1.291,10
+2026-09-30T03:00:00,Commercial,Standby loads,Standby,232.6,1.942,0.93,0.42,0.42,10
+2026-09-30T04:00:00,Commercial,HVAC plant,Cooling,232.6,9.002,0.96,2.01,2.01,10
+2026-09-30T04:00:00,Commercial,Lighting,Lighting,232.9,10.992,0.95,2.432,2.432,10
+2026-09-30T04:00:00,Commercial,IT equipment,Always on,233.0,8.832,0.95,1.955,1.955,10
+2026-09-30T04:00:00,Commercial,Ventilation,Cooling,232.9,1.512,0.94,0.331,0.331,10
+2026-09-30T04:00:00,Commercial,Kitchen,Appliances,232.6,5.917,0.93,1.28,1.28,10
+2026-09-30T04:00:00,Commercial,Standby loads,Standby,232.1,1.967,0.92,0.42,0.42,10
+2026-09-30T05:00:00,Commercial,HVAC plant,Cooling,232.9,10.757,0.95,2.38,2.38,10
+2026-09-30T05:00:00,Commercial,Lighting,Lighting,233.0,10.987,0.95,2.432,2.432,10
+2026-09-30T05:00:00,Commercial,IT equipment,Always on,232.9,8.528,0.94,1.867,1.867,10
+2026-09-30T05:00:00,Commercial,Ventilation,Cooling,232.6,1.812,0.93,0.392,0.392,10
+2026-09-30T05:00:00,Commercial,Kitchen,Appliances,232.1,5.601,0.92,1.196,1.196,10
+2026-09-30T05:00:00,Commercial,Standby loads,Standby,231.5,1.994,0.91,0.42,0.42,10
+2026-09-30T06:00:00,Commercial,HVAC plant,Cooling,233.0,18.139,0.95,4.015,4.015,10
+2026-09-30T06:00:00,Commercial,Lighting,Lighting,232.9,11.109,0.94,2.432,2.432,10
+2026-09-30T06:00:00,Commercial,IT equipment,Always on,232.6,8.779,0.93,1.899,1.899,10
+2026-09-30T06:00:00,Commercial,Ventilation,Cooling,232.1,3.096,0.92,0.661,0.661,10
+2026-09-30T06:00:00,Commercial,Kitchen,Appliances,231.5,5.041,0.91,1.062,1.062,10
+2026-09-30T06:00:00,Commercial,Standby loads,Standby,230.8,2.0,0.91,0.42,0.42,10
+2026-09-30T07:00:00,Commercial,HVAC plant,Cooling,232.9,21.354,0.94,4.675,4.675,10
+2026-09-30T07:00:00,Commercial,Lighting,Lighting,232.6,5.621,0.93,1.216,1.216,10
+2026-09-30T07:00:00,Commercial,IT equipment,Always on,232.1,9.263,0.92,1.978,1.978,10
+2026-09-30T07:00:00,Commercial,Ventilation,Cooling,231.5,3.655,0.91,0.77,0.77,10
+2026-09-30T07:00:00,Commercial,Kitchen,Appliances,230.8,4.347,0.91,0.913,0.913,10
+2026-09-30T07:00:00,Commercial,Standby loads,Standby,230.0,2.007,0.91,0.42,0.42,10
+2026-09-30T08:00:00,Commercial,HVAC plant,Cooling,232.6,24.663,0.93,5.335,5.335,10
+2026-09-30T08:00:00,Commercial,Lighting,Lighting,232.1,5.695,0.92,1.216,1.216,10
+2026-09-30T08:00:00,Commercial,IT equipment,Always on,231.5,9.142,0.91,1.926,1.926,10
+2026-09-30T08:00:00,Commercial,Ventilation,Cooling,230.8,4.185,0.91,0.879,0.879,10
+2026-09-30T08:00:00,Commercial,Kitchen,Appliances,230.0,3.774,0.91,0.79,0.79,10
+2026-09-30T08:00:00,Commercial,Standby loads,Standby,229.2,2.014,0.91,0.42,0.42,10
+2026-09-30T09:00:00,Commercial,HVAC plant,Cooling,232.1,27.865,0.92,5.95,5.95,10
+2026-09-30T09:00:00,Commercial,Lighting,Lighting,231.5,5.772,0.91,1.216,1.216,10
+2026-09-30T09:00:00,Commercial,IT equipment,Always on,230.8,8.856,0.91,1.86,1.86,10
+2026-09-30T09:00:00,Commercial,Ventilation,Cooling,230.0,4.682,0.91,0.98,0.98,10
+2026-09-30T09:00:00,Commercial,Kitchen,Appliances,229.2,3.476,0.91,0.725,0.725,10
+2026-09-30T09:00:00,Commercial,Standby loads,Standby,228.5,2.02,0.91,0.42,0.42,10
+2026-09-30T10:00:00,Commercial,HVAC plant,Cooling,231.5,30.75,0.91,6.478,6.478,10
+2026-09-30T10:00:00,Commercial,Lighting,Lighting,230.8,5.79,0.91,1.216,1.216,10
+2026-09-30T10:00:00,Commercial,IT equipment,Always on,230.0,9.216,0.91,1.929,1.929,10
+2026-09-30T10:00:00,Commercial,Ventilation,Cooling,229.2,5.116,0.91,1.067,1.067,10
+2026-09-30T10:00:00,Commercial,Kitchen,Appliances,228.5,3.54,0.91,0.736,0.736,10
+2026-09-30T10:00:00,Commercial,Standby loads,Standby,227.9,2.003,0.92,0.42,0.42,10
+2026-09-30T11:00:00,Commercial,HVAC plant,Cooling,230.8,32.772,0.91,6.883,6.883,10
+2026-09-30T11:00:00,Commercial,Lighting,Lighting,230.0,5.81,0.91,1.216,1.216,10
+2026-09-30T11:00:00,Commercial,IT equipment,Always on,229.2,9.484,0.91,1.978,1.978,10
+2026-09-30T11:00:00,Commercial,Ventilation,Cooling,228.5,5.454,0.91,1.134,1.134,10
+2026-09-30T11:00:00,Commercial,Kitchen,Appliances,227.9,3.911,0.92,0.82,0.82,10
+2026-09-30T11:00:00,Commercial,Standby loads,Standby,227.4,1.986,0.93,0.42,0.42,10
+2026-09-30T12:00:00,Commercial,HVAC plant,Cooling,230.0,34.104,0.91,7.138,7.138,10
+2026-09-30T12:00:00,Commercial,Lighting,Lighting,229.2,5.83,0.91,1.216,1.216,10
+2026-09-30T12:00:00,Commercial,IT equipment,Always on,228.5,9.118,0.91,1.896,1.896,10
+2026-09-30T12:00:00,Commercial,Ventilation,Cooling,227.9,5.609,0.92,1.176,1.176,10
+2026-09-30T12:00:00,Commercial,Kitchen,Appliances,227.4,4.511,0.93,0.954,0.954,10
+2026-09-30T12:00:00,Commercial,Standby loads,Standby,227.1,1.967,0.94,0.42,0.42,10
+2026-09-30T13:00:00,Commercial,HVAC plant,Cooling,229.2,34.64,0.91,7.225,7.225,10
+2026-09-30T13:00:00,Commercial,Lighting,Lighting,228.5,5.848,0.91,1.216,1.216,10
+2026-09-30T13:00:00,Commercial,IT equipment,Always on,227.9,8.909,0.92,1.868,1.868,10
+2026-09-30T13:00:00,Commercial,Ventilation,Cooling,227.4,5.627,0.93,1.19,1.19,10
+2026-09-30T13:00:00,Commercial,Kitchen,Appliances,227.1,5.167,0.94,1.103,1.103,10
+2026-09-30T13:00:00,Commercial,Standby loads,Standby,227.0,1.948,0.95,0.42,0.42,10
+2026-09-30T14:00:00,Commercial,HVAC plant,Cooling,228.5,34.328,0.91,7.138,7.138,10
+2026-09-30T14:00:00,Commercial,Lighting,Lighting,227.9,5.8,0.92,1.216,1.216,10
+2026-09-30T14:00:00,Commercial,IT equipment,Always on,227.4,9.254,0.93,1.957,1.957,10
+2026-09-30T14:00:00,Commercial,Ventilation,Cooling,227.1,5.509,0.94,1.176,1.176,10
+2026-09-30T14:00:00,Commercial,Kitchen,Appliances,227.0,5.685,0.95,1.226,1.226,10
+2026-09-30T14:00:00,Commercial,Standby loads,Standby,227.1,1.947,0.95,0.42,0.42,10
+2026-09-30T15:00:00,Commercial,HVAC plant,Cooling,227.9,32.828,0.92,6.883,6.883,10
+2026-09-30T15:00:00,Commercial,Lighting,Lighting,227.4,5.75,0.93,1.216,1.216,10
+2026-09-30T15:00:00,Commercial,IT equipment,Always on,227.1,9.191,0.94,1.962,1.962,10
+2026-09-30T15:00:00,Commercial,Ventilation,Cooling,227.0,5.259,0.95,1.134,1.134,10
+2026-09-30T15:00:00,Commercial,Kitchen,Appliances,227.1,5.984,0.95,1.291,1.291,10
+2026-09-30T15:00:00,Commercial,Standby loads,Standby,227.4,1.924,0.96,0.42,0.42,10
+2026-09-30T16:00:00,Commercial,HVAC plant,Cooling,227.4,30.631,0.93,6.478,6.478,10
+2026-09-30T16:00:00,Commercial,Lighting,Lighting,227.1,5.696,0.94,1.216,1.216,10
+2026-09-30T16:00:00,Commercial,IT equipment,Always on,227.0,8.681,0.95,1.872,1.872,10
+2026-09-30T16:00:00,Commercial,Ventilation,Cooling,227.1,4.946,0.95,1.067,1.067,10
+2026-09-30T16:00:00,Commercial,Kitchen,Appliances,227.4,5.863,0.96,1.28,1.28,10
+2026-09-30T16:00:00,Commercial,Standby loads,Standby,227.9,1.94,0.95,0.42,0.42,10
+2026-09-30T17:00:00,Commercial,HVAC plant,Cooling,227.1,27.872,0.94,5.95,5.95,10
+2026-09-30T17:00:00,Commercial,Lighting,Lighting,227.0,5.639,0.95,1.216,1.216,10
+2026-09-30T17:00:00,Commercial,IT equipment,Always on,227.1,8.76,0.95,1.89,1.89,10
+2026-09-30T17:00:00,Commercial,Ventilation,Cooling,227.4,4.489,0.96,0.98,0.98,10
+2026-09-30T17:00:00,Commercial,Kitchen,Appliances,227.9,5.524,0.95,1.196,1.196,10
+2026-09-30T17:00:00,Commercial,Standby loads,Standby,228.5,1.935,0.95,0.42,0.42,10
+2026-09-30T18:00:00,Commercial,HVAC plant,Cooling,227.0,24.739,0.95,5.335,5.335,10
+2026-09-30T18:00:00,Commercial,Lighting,Lighting,227.1,11.273,0.95,2.432,2.432,10
+2026-09-30T18:00:00,Commercial,IT equipment,Always on,227.4,9.052,0.96,1.976,1.976,10
+2026-09-30T18:00:00,Commercial,Ventilation,Cooling,227.9,4.06,0.95,0.879,0.879,10
+2026-09-30T18:00:00,Commercial,Kitchen,Appliances,228.5,4.892,0.95,1.062,1.062,10
+2026-09-30T18:00:00,Commercial,Standby loads,Standby,229.2,1.949,0.94,0.42,0.42,10
+2026-09-30T19:00:00,Commercial,HVAC plant,Cooling,227.1,21.669,0.95,4.675,4.675,10
+2026-09-30T19:00:00,Commercial,Lighting,Lighting,227.4,11.14,0.96,2.432,2.432,10
+2026-09-30T19:00:00,Commercial,IT equipment,Always on,227.9,8.937,0.95,1.935,1.935,10
+2026-09-30T19:00:00,Commercial,Ventilation,Cooling,228.5,3.547,0.95,0.77,0.77,10
+2026-09-30T19:00:00,Commercial,Kitchen,Appliances,229.2,4.238,0.94,0.913,0.913,10
+2026-09-30T19:00:00,Commercial,Standby loads,Standby,230.0,1.964,0.93,0.42,0.42,10
+2026-09-30T20:00:00,Commercial,HVAC plant,Cooling,227.4,18.392,0.96,4.015,4.015,10
+2026-09-30T20:00:00,Commercial,Lighting,Lighting,227.9,11.233,0.95,2.432,2.432,10
+2026-09-30T20:00:00,Commercial,IT equipment,Always on,228.5,8.568,0.95,1.86,1.86,10
+2026-09-30T20:00:00,Commercial,Ventilation,Cooling,229.2,3.068,0.94,0.661,0.661,10
+2026-09-30T20:00:00,Commercial,Kitchen,Appliances,230.0,3.693,0.93,0.79,0.79,10
+2026-09-30T20:00:00,Commercial,Standby loads,Standby,230.8,1.978,0.92,0.42,0.42,10
+2026-09-30T21:00:00,Commercial,HVAC plant,Cooling,227.9,15.704,0.95,3.4,3.4,10
+2026-09-30T21:00:00,Commercial,Lighting,Lighting,228.5,11.204,0.95,2.432,2.432,10
+2026-09-30T21:00:00,Commercial,IT equipment,Always on,229.2,8.912,0.94,1.92,1.92,10
+2026-09-30T21:00:00,Commercial,Ventilation,Cooling,230.0,2.618,0.93,0.56,0.56,10
+2026-09-30T21:00:00,Commercial,Kitchen,Appliances,230.8,3.414,0.92,0.725,0.725,10
+2026-09-30T21:00:00,Commercial,Standby loads,Standby,231.5,1.994,0.91,0.42,0.42,10
+2026-09-30T22:00:00,Commercial,HVAC plant,Cooling,228.5,13.23,0.95,2.872,2.872,10
+2026-09-30T22:00:00,Commercial,Lighting,Lighting,229.2,11.288,0.94,2.432,2.432,10
+2026-09-30T22:00:00,Commercial,IT equipment,Always on,230.0,9.252,0.93,1.979,1.979,10
+2026-09-30T22:00:00,Commercial,Ventilation,Cooling,230.8,2.228,0.92,0.473,0.473,10
+2026-09-30T22:00:00,Commercial,Kitchen,Appliances,231.5,3.494,0.91,0.736,0.736,10
+2026-09-30T22:00:00,Commercial,Standby loads,Standby,232.1,1.989,0.91,0.42,0.42,10
+2026-09-30T23:00:00,Commercial,HVAC plant,Cooling,229.2,11.451,0.94,2.467,2.467,10
+2026-09-30T23:00:00,Commercial,Lighting,Lighting,230.0,11.37,0.93,2.432,2.432,10
+2026-09-30T23:00:00,Commercial,IT equipment,Always on,230.8,8.972,0.92,1.905,1.905,10
+2026-09-30T23:00:00,Commercial,Ventilation,Cooling,231.5,1.927,0.91,0.406,0.406,10
+2026-09-30T23:00:00,Commercial,Kitchen,Appliances,232.1,3.882,0.91,0.82,0.82,10
+2026-09-30T23:00:00,Commercial,Standby loads,Standby,232.6,1.984,0.91,0.42,0.42,10
+2026-09-30T00:00:00,Industrial,Production motors,Motors,230.0,36.932,0.89,7.56,7.56,7
+2026-09-30T00:00:00,Industrial,Compressor,Motors,230.8,14.558,0.9,3.024,3.024,7
+2026-09-30T00:00:00,Industrial,Process heating,Heating,231.5,31.828,0.91,6.705,6.705,7
+2026-09-30T00:00:00,Industrial,HVAC,Cooling,232.1,3.707,0.91,0.783,0.783,7
+2026-09-30T00:00:00,Industrial,Lighting,Lighting,232.6,6.393,0.92,1.368,1.368,7
+2026-09-30T00:00:00,Industrial,Standby loads,Standby,232.9,3.539,0.91,0.75,0.75,7
+2026-09-30T01:00:00,Industrial,Production motors,Motors,230.8,36.395,0.9,7.56,7.56,7
+2026-09-30T01:00:00,Industrial,Compressor,Motors,231.5,14.355,0.91,3.024,3.024,7
+2026-09-30T01:00:00,Industrial,Process heating,Heating,232.1,32.839,0.91,6.936,6.936,7
+2026-09-30T01:00:00,Industrial,HVAC,Cooling,232.6,3.519,0.92,0.753,0.753,7
+2026-09-30T01:00:00,Industrial,Lighting,Lighting,232.9,6.455,0.91,1.368,1.368,7
+2026-09-30T01:00:00,Industrial,Standby loads,Standby,233.0,3.537,0.91,0.75,0.75,7
+2026-09-30T02:00:00,Industrial,Production motors,Motors,231.5,35.886,0.91,7.56,7.56,7
+2026-09-30T02:00:00,Industrial,Compressor,Motors,232.1,14.317,0.91,3.024,3.024,7
+2026-09-30T02:00:00,Industrial,Process heating,Heating,232.6,33.282,0.92,7.122,7.122,7
+2026-09-30T02:00:00,Industrial,HVAC,Cooling,232.9,3.694,0.91,0.783,0.783,7
+2026-09-30T02:00:00,Industrial,Lighting,Lighting,233.0,6.452,0.91,1.368,1.368,7
+2026-09-30T02:00:00,Industrial,Standby loads,Standby,232.9,3.578,0.9,0.75,0.75,7
+2026-09-30T03:00:00,Industrial,Production motors,Motors,232.1,35.794,0.91,7.56,7.56,7
+2026-09-30T03:00:00,Industrial,Compressor,Motors,232.6,14.131,0.92,3.024,3.024,7
+2026-09-30T03:00:00,Industrial,Process heating,Heating,232.9,34.203,0.91,7.249,7.249,7
+2026-09-30T03:00:00,Industrial,HVAC,Cooling,233.0,4.117,0.91,0.873,0.873,7
+2026-09-30T03:00:00,Industrial,Lighting,Lighting,232.9,6.526,0.9,1.368,1.368,7
+2026-09-30T03:00:00,Industrial,Standby loads,Standby,232.6,3.623,0.89,0.75,0.75,7
+2026-09-30T04:00:00,Industrial,Production motors,Motors,232.6,35.328,0.92,7.56,7.56,7
+2026-09-30T04:00:00,Industrial,Compressor,Motors,232.9,14.268,0.91,3.024,3.024,7
+2026-09-30T04:00:00,Industrial,Process heating,Heating,233.0,34.476,0.91,7.31,7.31,7
+2026-09-30T04:00:00,Industrial,HVAC,Cooling,232.9,4.852,0.9,1.017,1.017,7
+2026-09-30T04:00:00,Industrial,Lighting,Lighting,232.6,6.608,0.89,1.368,1.368,7
+2026-09-30T04:00:00,Industrial,Standby loads,Standby,232.1,3.672,0.88,0.75,0.75,7
+2026-09-30T05:00:00,Industrial,Production motors,Motors,232.9,35.671,0.91,7.56,7.56,7
+2026-09-30T05:00:00,Industrial,Compressor,Motors,233.0,14.262,0.91,3.024,3.024,7
+2026-09-30T05:00:00,Industrial,Process heating,Heating,232.9,34.827,0.9,7.3,7.3,7
+2026-09-30T05:00:00,Industrial,HVAC,Cooling,232.6,5.816,0.89,1.204,1.204,7
+2026-09-30T05:00:00,Industrial,Lighting,Lighting,232.1,6.698,0.88,1.368,1.368,7
+2026-09-30T05:00:00,Industrial,Standby loads,Standby,231.5,3.724,0.87,0.75,0.75,7
+2026-09-30T06:00:00,Industrial,Production motors,Motors,233.0,75.895,0.91,16.092,16.092,7
+2026-09-30T06:00:00,Industrial,Compressor,Motors,232.9,31.726,0.9,6.65,6.65,7
+2026-09-30T06:00:00,Industrial,Process heating,Heating,232.6,34.877,0.89,7.22,7.22,7
+2026-09-30T06:00:00,Industrial,HVAC,Cooling,232.1,9.944,0.88,2.031,2.031,7
+2026-09-30T06:00:00,Industrial,Lighting,Lighting,231.5,6.792,0.87,1.368,1.368,7
+2026-09-30T06:00:00,Industrial,Standby loads,Standby,230.8,3.735,0.87,0.75,0.75,7
+2026-09-30T07:00:00,Industrial,Production motors,Motors,232.9,79.386,0.9,16.64,16.64,7
+2026-09-30T07:00:00,Industrial,Compressor,Motors,232.6,31.645,0.89,6.551,6.551,7
+2026-09-30T07:00:00,Industrial,Process heating,Heating,232.1,34.639,0.88,7.075,7.075,7
+2026-09-30T07:00:00,Industrial,HVAC,Cooling,231.5,11.743,0.87,2.365,2.365,7
+2026-09-30T07:00:00,Industrial,Lighting,Lighting,230.8,3.406,0.87,0.684,0.684,7
+2026-09-30T07:00:00,Industrial,Standby loads,Standby,230.0,3.792,0.86,0.75,0.75,7
+2026-09-30T08:00:00,Industrial,Production motors,Motors,232.6,78.806,0.89,16.314,16.314,7
+2026-09-30T08:00:00,Industrial,Compressor,Motors,232.1,30.438,0.88,6.217,6.217,7
+2026-09-30T08:00:00,Industrial,Process heating,Heating,231.5,34.135,0.87,6.875,6.875,7
+2026-09-30T08:00:00,Industrial,HVAC,Cooling,230.8,13.442,0.87,2.699,2.699,7
+2026-09-30T08:00:00,Industrial,Lighting,Lighting,230.0,3.458,0.86,0.684,0.684,7
+2026-09-30T08:00:00,Industrial,Standby loads,Standby,229.2,3.761,0.87,0.75,0.75,7
+2026-09-30T09:00:00,Industrial,Production motors,Motors,232.1,75.736,0.88,15.469,15.469,7
+2026-09-30T09:00:00,Industrial,Compressor,Motors,231.5,29.855,0.87,6.013,6.013,7
+2026-09-30T09:00:00,Industrial,Process heating,Heating,230.8,33.039,0.87,6.634,6.634,7
+2026-09-30T09:00:00,Industrial,HVAC,Cooling,230.0,15.217,0.86,3.01,3.01,7
+2026-09-30T09:00:00,Industrial,Lighting,Lighting,229.2,3.43,0.87,0.684,0.684,7
+2026-09-30T09:00:00,Industrial,Standby loads,Standby,228.5,3.773,0.87,0.75,0.75,7
+2026-09-30T10:00:00,Industrial,Production motors,Motors,231.5,74.626,0.87,15.03,15.03,7
+2026-09-30T10:00:00,Industrial,Compressor,Motors,230.8,30.688,0.87,6.162,6.162,7
+2026-09-30T10:00:00,Industrial,Process heating,Heating,230.0,32.194,0.86,6.368,6.368,7
+2026-09-30T10:00:00,Industrial,HVAC,Cooling,229.2,16.434,0.87,3.277,3.277,7
+2026-09-30T10:00:00,Industrial,Lighting,Lighting,228.5,3.441,0.87,0.684,0.684,7
+2026-09-30T10:00:00,Industrial,Standby loads,Standby,227.9,3.74,0.88,0.75,0.75,7
+2026-09-30T11:00:00,Industrial,Production motors,Motors,230.8,77.073,0.87,15.476,15.476,7
+2026-09-30T11:00:00,Industrial,Compressor,Motors,230.0,32.867,0.86,6.501,6.501,7
+2026-09-30T11:00:00,Industrial,Process heating,Heating,229.2,30.571,0.87,6.096,6.096,7
+2026-09-30T11:00:00,Industrial,HVAC,Cooling,228.5,17.516,0.87,3.482,3.482,7
+2026-09-30T11:00:00,Industrial,Lighting,Lighting,227.9,3.411,0.88,0.684,0.684,7
+2026-09-30T11:00:00,Industrial,Standby loads,Standby,227.4,3.706,0.89,0.75,0.75,7
+2026-09-30T12:00:00,Industrial,Production motors,Motors,230.0,82.508,0.86,16.32,16.32,7
+2026-09-30T12:00:00,Industrial,Compressor,Motors,229.2,33.395,0.87,6.659,6.659,7
+2026-09-30T12:00:00,Industrial,Process heating,Heating,228.5,29.352,0.87,5.835,5.835,7
+2026-09-30T12:00:00,Industrial,HVAC,Cooling,227.9,18.005,0.88,3.611,3.611,7
+2026-09-30T12:00:00,Industrial,Lighting,Lighting,227.4,3.38,0.89,0.684,0.684,7
+2026-09-30T12:00:00,Industrial,Standby loads,Standby,227.1,3.669,0.9,0.75,0.75,7
+2026-09-30T13:00:00,Industrial,Production motors,Motors,229.2,83.444,0.87,16.639,16.639,7
+2026-09-30T13:00:00,Industrial,Compressor,Motors,228.5,32.521,0.87,6.465,6.465,7
+2026-09-30T13:00:00,Industrial,Process heating,Heating,227.9,27.943,0.88,5.604,5.604,7
+2026-09-30T13:00:00,Industrial,HVAC,Cooling,227.4,18.06,0.89,3.655,3.655,7
+2026-09-30T13:00:00,Industrial,Lighting,Lighting,227.1,3.347,0.9,0.684,0.684,7
+2026-09-30T13:00:00,Industrial,Standby loads,Standby,227.0,3.631,0.91,0.75,0.75,7
+2026-09-30T14:00:00,Industrial,Production motors,Motors,228.5,80.918,0.87,16.086,16.086,7
+2026-09-30T14:00:00,Industrial,Compressor,Motors,227.9,30.561,0.88,6.129,6.129,7
+2026-09-30T14:00:00,Industrial,Process heating,Heating,227.4,26.771,0.89,5.418,5.418,7
+2026-09-30T14:00:00,Industrial,HVAC,Cooling,227.1,17.667,0.9,3.611,3.611,7
+2026-09-30T14:00:00,Industrial,Lighting,Lighting,227.0,3.311,0.91,0.684,0.684,7
+2026-09-30T14:00:00,Industrial,Standby loads,Standby,227.1,3.629,0.91,0.75,0.75,7
+2026-09-30T15:00:00,Industrial,Production motors,Motors,227.9,76.105,0.88,15.263,15.263,7
+2026-09-30T15:00:00,Industrial,Compressor,Motors,227.4,29.745,0.89,6.02,6.02,7
+2026-09-30T15:00:00,Industrial,Process heating,Heating,227.1,25.887,0.9,5.291,5.291,7
+2026-09-30T15:00:00,Industrial,HVAC,Cooling,227.0,16.856,0.91,3.482,3.482,7
+2026-09-30T15:00:00,Industrial,Lighting,Lighting,227.1,3.31,0.91,0.684,0.684,7
+2026-09-30T15:00:00,Industrial,Standby loads,Standby,227.4,3.585,0.92,0.75,0.75,7
+2026-09-30T16:00:00,Industrial,Production motors,Motors,227.4,74.467,0.89,15.071,15.071,7
+2026-09-30T16:00:00,Industrial,Compressor,Motors,227.1,30.608,0.9,6.256,6.256,7
+2026-09-30T16:00:00,Industrial,Process heating,Heating,227.0,25.318,0.91,5.23,5.23,7
+2026-09-30T16:00:00,Industrial,HVAC,Cooling,227.1,15.857,0.91,3.277,3.277,7
+2026-09-30T16:00:00,Industrial,Lighting,Lighting,227.4,3.269,0.92,0.684,0.684,7
+2026-09-30T16:00:00,Industrial,Standby loads,Standby,227.9,3.616,0.91,0.75,0.75,7
+2026-09-30T17:00:00,Industrial,Production motors,Motors,227.1,76.907,0.9,15.719,15.719,7
+2026-09-30T17:00:00,Industrial,Compressor,Motors,227.0,31.854,0.91,6.58,6.58,7
+2026-09-30T17:00:00,Industrial,Process heating,Heating,227.1,25.356,0.91,5.24,5.24,7
+2026-09-30T17:00:00,Industrial,HVAC,Cooling,227.4,14.388,0.92,3.01,3.01,7
+2026-09-30T17:00:00,Industrial,Lighting,Lighting,227.9,3.298,0.91,0.684,0.684,7
+2026-09-30T17:00:00,Industrial,Standby loads,Standby,228.5,3.607,0.91,0.75,0.75,7
+2026-09-30T18:00:00,Industrial,Production motors,Motors,227.0,79.871,0.91,16.499,16.499,7
+2026-09-30T18:00:00,Industrial,Compressor,Motors,227.1,32.115,0.91,6.637,6.637,7
+2026-09-30T18:00:00,Industrial,Process heating,Heating,227.4,25.429,0.92,5.32,5.32,7
+2026-09-30T18:00:00,Industrial,HVAC,Cooling,227.9,13.014,0.91,2.699,2.699,7
+2026-09-30T18:00:00,Industrial,Lighting,Lighting,228.5,6.579,0.91,1.368,1.368,7
+2026-09-30T18:00:00,Industrial,Standby loads,Standby,229.2,3.636,0.9,0.75,0.75,7
+2026-09-30T19:00:00,Industrial,Production motors,Motors,227.1,80.126,0.91,16.559,16.559,7
+2026-09-30T19:00:00,Industrial,Compressor,Motors,227.4,30.424,0.92,6.365,6.365,7
+2026-09-30T19:00:00,Industrial,Process heating,Heating,227.9,26.351,0.91,5.465,5.465,7
+2026-09-30T19:00:00,Industrial,HVAC,Cooling,228.5,11.374,0.91,2.365,2.365,7
+2026-09-30T19:00:00,Industrial,Lighting,Lighting,229.2,6.632,0.9,1.368,1.368,7
+2026-09-30T19:00:00,Industrial,Standby loads,Standby,230.0,3.664,0.89,0.75,0.75,7
+2026-09-30T20:00:00,Industrial,Production motors,Motors,227.4,75.681,0.92,15.833,15.833,7
+2026-09-30T20:00:00,Industrial,Compressor,Motors,227.9,29.23,0.91,6.062,6.062,7
+2026-09-30T20:00:00,Industrial,Process heating,Heating,228.5,27.244,0.91,5.665,5.665,7
+2026-09-30T20:00:00,Industrial,HVAC,Cooling,229.2,9.846,0.9,2.031,2.031,7
+2026-09-30T20:00:00,Industrial,Lighting,Lighting,230.0,6.683,0.89,1.368,1.368,7
+2026-09-30T20:00:00,Industrial,Standby loads,Standby,230.8,3.693,0.88,0.75,0.75,7
+2026-09-30T21:00:00,Industrial,Production motors,Motors,227.9,72.882,0.91,15.115,15.115,7
+2026-09-30T21:00:00,Industrial,Compressor,Motors,228.5,29.134,0.91,6.058,6.058,7
+2026-09-30T21:00:00,Industrial,Process heating,Heating,229.2,28.631,0.9,5.906,5.906,7
+2026-09-30T21:00:00,Industrial,HVAC,Cooling,230.0,8.403,0.89,1.72,1.72,7
+2026-09-30T21:00:00,Industrial,Lighting,Lighting,230.8,6.735,0.88,1.368,1.368,7
+2026-09-30T21:00:00,Industrial,Standby loads,Standby,231.5,3.724,0.87,0.75,0.75,7
+2026-09-30T22:00:00,Industrial,Production motors,Motors,228.5,36.358,0.91,7.56,7.56,7
+2026-09-30T22:00:00,Industrial,Compressor,Motors,229.2,14.66,0.9,3.024,3.024,7
+2026-09-30T22:00:00,Industrial,Process heating,Heating,230.0,30.151,0.89,6.172,6.172,7
+2026-09-30T22:00:00,Industrial,HVAC,Cooling,230.8,7.154,0.88,1.453,1.453,7
+2026-09-30T22:00:00,Industrial,Lighting,Lighting,231.5,6.792,0.87,1.368,1.368,7
+2026-09-30T22:00:00,Industrial,Standby loads,Standby,232.1,3.714,0.87,0.75,0.75,7
+2026-09-30T23:00:00,Industrial,Production motors,Motors,229.2,36.649,0.9,7.56,7.56,7
+2026-09-30T23:00:00,Industrial,Compressor,Motors,230.0,14.773,0.89,3.024,3.024,7
+2026-09-30T23:00:00,Industrial,Process heating,Heating,230.8,31.728,0.88,6.444,6.444,7
+2026-09-30T23:00:00,Industrial,HVAC,Cooling,231.5,6.196,0.87,1.248,1.248,7
+2026-09-30T23:00:00,Industrial,Lighting,Lighting,232.1,6.775,0.87,1.368,1.368,7
+2026-09-30T23:00:00,Industrial,Standby loads,Standby,232.6,3.749,0.86,0.75,0.75,7
